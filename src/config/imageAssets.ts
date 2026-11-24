@@ -9,6 +9,7 @@ export const IMAGE_ASSETS = {
   logo: `${BASE_PATH}/kem-fresh-logo-placeholder.svg`,
 
   hero: `${BASE_PATH}/hero-farming.svg`,
+  main: `${BASE_PATH}/assets/images/kem-fresh-main.jpg`,
 
   categories: {
     organicFarming: `${BASE_PATH}/organic-farming.svg`,

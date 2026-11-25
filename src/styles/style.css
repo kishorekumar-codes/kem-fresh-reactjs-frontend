@@ -237,7 +237,7 @@ button {
 }
 
 .logo__mark {
-  width: 32px;
+  width: 45px;
   height: 32px;
 }
 
@@ -257,9 +257,9 @@ button {
   color: var(--color-cream);
 }
 
-.logo--light .logo__mark {
+/* .logo--light .logo__mark {
   filter: brightness(0) invert(1);
-}
+} */
 
 .navbar__list {
   display: flex;
@@ -372,7 +372,7 @@ button {
   object-position: 72% center;
 }
 
-.hero__overlay {
+/* .hero__overlay {
   position: absolute;
   inset: 0;
   background: linear-gradient(
@@ -381,7 +381,7 @@ button {
     rgba(250, 247, 239, 0.35) 70%,
     rgba(250, 247, 239, 0) 100%
   );
-}
+} */
 
 .hero__content {
   position: relative;
@@ -865,7 +865,7 @@ button {
   }
 
   .logo__mark {
-    width: 40px;
+    width: 60px;
     height: 40px;
   }
 
@@ -882,14 +882,14 @@ button {
     object-position: center 60%;
   }
 
-  .hero__overlay {
+  /* .hero__overlay {
     background: linear-gradient(
       90deg,
       rgba(250, 247, 239, 0.65) 0%,
       rgba(250, 247, 239, 0.2) 50%,
       rgba(250, 247, 239, 0) 70%
     );
-  }
+  } */
 
   .hero__content {
     padding-top: var(--space-8);
